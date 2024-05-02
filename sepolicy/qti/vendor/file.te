@@ -25,7 +25,7 @@ type vendor_sysfs_sde_crtc, fs_type, sysfs_type;
 type vendor_proc_oplus_sched, fs_type, proc_type;
 
 # OPlus touch
-type vendor_persist_optouch_file, file_type;
+type vendor_persist_optouch_file, file_type, data_file_type;
 
 # Sensors
 type vendor_proc_eng_cali_file, fs_type, proc_type;
